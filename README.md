@@ -6,10 +6,10 @@ I enjoy coding, inventing, and daydreaming.
 
 My old account got deleted, so this is my new account! :( :)
 
-Ask me about amything! I can make you anything you want because I'm currently bored.
+Ask me about anything! I can make you anything you want because I'm currently bored.
 
 My game website: https://fwgfs.vercel.app
 
 The old one was hosted right here! But it got deleted. :(
 
-Lmao
+UwU
