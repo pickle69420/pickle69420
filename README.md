@@ -8,7 +8,7 @@ My old account got deleted, so this is my new account! :( :)
 
 Ask me about anything! I can make you anything you want because I'm currently bored.
 
-My game website: https://fwgfs.vercel.app
+My game website: https://fwgfs.pages.dev/
 
 The old one was hosted right here! But it got deleted. :(
 
