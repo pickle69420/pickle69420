@@ -11,5 +11,3 @@ Ask me about anything! I can make you anything you want because I'm currently bo
 My game website: https://fwgfs.pages.dev/
 
 The old one was hosted right here! But it got deleted. :(
-
-UwU
