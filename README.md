@@ -1,6 +1,6 @@
 Hi! I'm pickle69420 aka just PICKLE
 
-I am good at HTML and CSS and kinda JS...
+I am good at HTML and CSS and JS...
 
 I enjoy coding, inventing, and daydreaming.
 
