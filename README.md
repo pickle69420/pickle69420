@@ -1,10 +1,10 @@
-## 👋 Hi!
+### 👋 Hi!
 
 I'm pickle, a self-taught web developer.
 
-I have an old website for games, which I don't want to make prettier.
+I have an old [website](https://fwgfs.pages.dev/) for games, which I don't want to make prettier.
 
-https://fwgfs.pages.dev/
+If you are wondering where my repositories are, they are private.
 
 ```javascript
 if (needsomething == true) {
