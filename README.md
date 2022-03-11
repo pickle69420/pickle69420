@@ -1,13 +1,13 @@
-Hi! I'm pickle69420 aka just PICKLE
+## 👋 Hi!
 
-I am good at HTML and CSS and JS...
+I'm pickle, a self-taught web developer.
 
-I enjoy coding, inventing, and daydreaming.
+I have an old website for games, which I don't want to make prettier.
 
-My old account got deleted, so this is my new account! :( :)
+https://fwgfs.pages.dev/
 
-Ask me about anything! I can make you anything you want because I'm currently bored.
-
-My game website: https://fwgfs.pages.dev/
-
-The old one was hosted right here! But it got deleted. :(
+```javascript
+if (needsomething == true) {
+ Ask(pickle69420, whatyouneed);
+}
+```
