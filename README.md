@@ -10,7 +10,7 @@ I'm bored right now, so go to requests and follow the tutorial to request me to 
 
 ```javascript
 if (needsomething == true) {
- Ask(pickle69420, whatyouneed);
+ Ask(pickle69420, whatyouneed, requests);
 }
 ```
 
