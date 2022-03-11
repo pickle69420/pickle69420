@@ -1,4 +1,4 @@
-### 👋 Hi!
+## 👋 Hi!
 
 I'm pickle, a self-taught web developer.
 
@@ -11,3 +11,5 @@ if (needsomething == true) {
  Ask(pickle69420, whatyouneed);
 }
 ```
+
+Thanks for reading this far 🙂
