@@ -1,18 +1,19 @@
 ## 👋 Hi!
 
-I'm pickle, a self-taught web developer.
+I'm pickle, a self-taught developer.
 
-I have an old [website](https://fwgfs.pages.dev/) for games, which I don't want to make prettier.
+I'm currently working on a Open-World Massively Multiplayer Online Action RPG in Minecarft called DrippedLeaf.
+Join the development server: `drippedleaf.gq`
 
-If you are wondering where my repositories are, they are private.
+I'm also working on a bookmarklet proxy site with many features like chat and games.
+It's called PickleHub and you can follow the development of it on the [github repository](https://github.com/pickle69420/picklebox).
 
-I'm bored right now, so go to [requests](https://github.com/pickle69420/requests) and follow the tutorial to request me to do something. It's a win-win!
-
-```javascript
-if (needsomething == true) {
- Ask(pickle69420, whatyouneed, requests);
-}
-```
-Alt account: [AIv420](https://github.com/AIV420)
+``javascript
+githubapi.getUser(pickle6940).projects = new Array([
+  'drippedleaf:in-progress(alpha)',
+  'picklehub:in-progress(late-beta)',
+  'fwgfs:deprecated(2020)'
+]);
+``
 
 Thanks for reading this far 🙂
