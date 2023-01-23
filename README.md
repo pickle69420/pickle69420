@@ -2,6 +2,8 @@
 
 I'm pickle, a self-taught developer.
 
+I specialize in mostty frontend web development and minecraft plugins.
+
 I'm currently working on a Open-World Massively Multiplayer Online Action RPG in Minecraft called DrippedLeaf.
 Join the development server: `drippedleaf.gq`
 
