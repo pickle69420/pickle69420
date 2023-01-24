@@ -2,7 +2,7 @@
 
 I'm pickle, a self-taught developer.
 
-I specialize in mostty frontend web development and minecraft plugins.
+I specialize in mostly frontend web development and minecraft plugins.
 
 I'm currently working on a Open-World Massively Multiplayer Online Action RPG in Minecraft called DrippedLeaf.
 Join the development server: `drippedleaf.gq`
@@ -12,6 +12,8 @@ It's called PickleHub, and you can follow it's development on the [github reposi
 
 Also, I used to have an obsession with terminals so I have 2 javascript terminals here on github.
 There's [The Terminal](https://github.com/pickle69420/theterminal) and [Evol Tech](https://github.com/pickle69420/evol-tech).
+
+![Metrics](https://metrics.lecoq.io/pickle69420?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FLos_Angeles)
 
 ```javascript
 githubapi.getUser(pickle69420).projects = new Array([
