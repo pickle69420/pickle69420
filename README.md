@@ -15,9 +15,9 @@ There's [The Terminal](https://github.com/pickle69420/theterminal) and [Evol Tec
 ```javascript
 githubapi.getUser(pickle69420).projects = new Array([
   'picklehub:in-progress(late-beta)',
+  'evol-tech:alive(first-commit)',
   'fwgfs:deprecated(2020)',
   'theterminal:deprecated(2020-2021)',
-  'evol-tech:maybe-alive(2021)'
 ]);
 ```
 
