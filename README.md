@@ -11,7 +11,7 @@ Its sadly currently at halt right now though.
 Also, I used to have an obsession with terminals so I have 2 javascript terminals here on github.
 There's [The Terminal](https://github.com/pickle69420/theterminal) and [Evol Tech](https://github.com/evoltech-official/).
 
-![pickle's GitHub stats](https://github-readme-stats.vercel.app/api?username=pickle69420&show_icons=true&theme=dark)
+![pickle's GitHub stats](https://github-readme-stats-omega6405.vercel.app/api?username=pickle69420&show_icons=true&theme=dark)
 
 ```javascript
 githubapi.getUser(pickle69420).projects = new Array([
